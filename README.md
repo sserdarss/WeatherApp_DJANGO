@@ -1,1 +1,1 @@
-# WeatherApp_DJANGO
+# WeatherApp
